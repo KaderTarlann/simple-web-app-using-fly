@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for simple-web-app-using-fly2 on 2024-04-22T16:01:07+01:00
+# fly.toml app configuration file generated for simple-web-app-using-fly2-quiet-darkness-2188 on 2024-04-22T16:08:44+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'simple-web-app-using-fly2'
+app = 'simple-web-app-using-fly2-quiet-darkness-2188'
 primary_region = 'lhr'
 
 [build]
